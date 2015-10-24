@@ -14,6 +14,8 @@ Requirements
 Usage
 =====
 
+Set the `ACCESS_TOKEN` variable in `config.py` to a valid token.
+
 	$ rethinkdb &
 
 	$ python3 setup_db.py
